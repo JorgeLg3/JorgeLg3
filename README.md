@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Check some of my projects
+- :space_invader: [React Pokemon Memory Game](https://jorgelg3.github.io/TheOdinProject/016-memory-card/build/)
+- :handbag: [React Shopping Cart Web](https://jorgelg3.github.io/TheOdinProject/017-shopping-cart/build/)
+- :microscope: [Self-made Neural Network Classifier](https://github.com/JorgeLg3/NN-Legume-sorter/blob/main/training_NN.ipynb)
+- :wrench: [Arduino radiocontrol R2D2](http://dyor.roboticafacil.es/en/english-r2d2-dyor/)
+
+## Top Technologies
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
