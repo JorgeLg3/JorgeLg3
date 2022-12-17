@@ -1,6 +1,6 @@
 # Hi there, I'm Jorge! 👋
 
-My name is Jorge Lopez Gamarra and I'm passionate about technology and programming. I studied engineering and learned how to program from robots to web pages. I specialise in front-end development, machine learning and automation. And I'm currently learning Express.js and TensorFlow2.0.
+My name is Jorge Lopez Gamarra and I'm passionate about technology and programming. I studied engineering and learned how to program from robots to web pages. I specialise in front-end development, machine learning and automation. And I'm currently learning to build awesome apps with React & Django, and playing with data and algorithms in python.
 <!--
 **JorgeLg3/JorgeLg3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
