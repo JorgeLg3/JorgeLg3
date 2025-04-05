@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## Check some of my projects
 - :space_invader: [React Pokemon Memory Game](https://jorgelg3.github.io/TheOdinProject/016-memory-card/build/)
@@ -35,3 +35,4 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
+-->
